@@ -60,6 +60,7 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
+
   AZURE_RESOURCE_GROUP: cd-with-actions
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"Central US"'
